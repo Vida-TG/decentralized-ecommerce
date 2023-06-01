@@ -1,0 +1,1 @@
+Scales waitlist automatically as userbase increase
